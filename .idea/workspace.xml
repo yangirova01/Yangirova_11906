@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e38a4d85-f880-4b0f-8023-5fd1dc75b582" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/src/shifrwithn.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework/src/shifrwithn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shifrwithn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/untitled2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/untitled2/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="e38a4d85-f880-4b0f-8023-5fd1dc75b582" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +96,7 @@
       <workItem from="1570361258515" duration="2896000" />
       <workItem from="1570403991438" duration="1555000" />
       <workItem from="1570443678660" duration="33000" />
+      <workItem from="1570443894318" duration="238000" />
     </task>
     <servers />
   </component>
