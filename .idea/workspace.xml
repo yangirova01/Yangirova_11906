@@ -34,6 +34,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/homework/src/homework" />
+      <recent name="$PROJECT_DIR$/homework/src" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
@@ -64,7 +66,8 @@
       </method>
     </configuration>
     <configuration name="shifrwithn " type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="shifrwithn" />
+      <option name="MAIN_CLASS_NAME" value="homework.shifrwithn" />
+      <module name="homework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -100,6 +103,9 @@
       <workItem from="1570443678660" duration="33000" />
       <workItem from="1570443894318" duration="587000" />
       <workItem from="1570456493346" duration="24000" />
+      <workItem from="1570456741039" duration="514000" />
+      <workItem from="1570987093263" duration="19000" />
+      <workItem from="1570987129389" duration="143000" />
     </task>
     <servers />
   </component>
