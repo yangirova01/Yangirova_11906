@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e38a4d85-f880-4b0f-8023-5fd1dc75b582" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/src/homework/homework5.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework/src/homework/homework5.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,9 +52,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.homework2">
+  <component name="RunManager" selected="Application.homework6">
     <configuration name="homework2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework6" />
+      <module name="homework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -81,6 +89,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homework6" />
         <item itemvalue="Application.homework2" />
         <item itemvalue="Application.shifrwithn" />
         <item itemvalue="Application.main" />
@@ -105,7 +114,8 @@
       <workItem from="1570456493346" duration="24000" />
       <workItem from="1570456741039" duration="514000" />
       <workItem from="1570987093263" duration="19000" />
-      <workItem from="1570987129389" duration="143000" />
+      <workItem from="1570987129389" duration="695000" />
+      <workItem from="1571069032121" duration="1389000" />
     </task>
     <servers />
   </component>
@@ -124,5 +134,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/homework/src/homework/homework5.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

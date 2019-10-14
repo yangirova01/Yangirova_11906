@@ -1,4 +1,4 @@
-package For_Study.Projects;
+/*package For_Study.Projects;
 import java.util.Scanner;
 public class homework2 {
     public static void main(String [] args) {
@@ -19,4 +19,4 @@ public class homework2 {
         System.out.println (x);
     }
 
-}
+}*/
