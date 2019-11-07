@@ -15,9 +15,9 @@ public class task4 {
             i++;
         }
         if (isCorr)  {
-            System.out.println("Нет блять");
+            System.out.println("Нет");
         } else {
-            System.out.println("есть такой");
+            System.out.println("Да");
         }
     }
 }
