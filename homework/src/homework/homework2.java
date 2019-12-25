@@ -1,5 +1,4 @@
 package homework;
-
 import javax.swing.*;
 import java.util.Scanner;
 public class homework2 {
