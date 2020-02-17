@@ -24,4 +24,3 @@ public class Homework25 {
             System.out.println(result);
         }
     }
-}
