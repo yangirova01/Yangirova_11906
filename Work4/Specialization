@@ -1,0 +1,5 @@
+{specName: surgeon, specId: 1}
+{specName: oculist, specId: 2}
+{specName: therapist, specId: 3}
+{specName: gynecologist, specId: 4}
+{specName:psychologist , specId: 5}
